@@ -110,17 +110,17 @@ awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维
 
 ## ListView 
 
-- [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) ★2685 - Android 万能的Adapter 
-- [Pinned Section Listview](https://github.com/beworker/pinned-section-listview) ★2393 - 便于使用的ListView 
-- [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView) ★1410 - Android自定义列表视图 
-- [Renderers](https://github.com/pedrovgs/Renderers) ★1036 - 创建适配器的Android库 
-- [CalendarListView](https://github.com/Kelin-Hong/CalendarListView) ★766 - 可互动的ListView+CalendarView 
-- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) ★528 - 创建Android动画折叠视图 
-- [ListItemView](https://github.com/lurbas/ListItemView) ★501 - 基于MD风格的列表item实现 
-- [WheelView](https://github.com/venshine/WheelView) ★462 - 基于ListView实现的Android滚轮控件 
-- [YLListView](https://github.com/yll2wcf/YLListView) ★216 - 仿IOS弹簧效果的ListView 
-- [SearchListView](https://github.com/vivian8725118/SearchListView) ★152 - 带搜索栏的 listview 
-- [ScollZoomListView](https://github.com/ruzhan123/ScollZoomListView) ★40 - 优雅的漫画阅读器插件 
+- [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) [![star this repo](http://githubbadges.com/star.svg?user=hongyangAndroid&repo=baseAdapter&style=default)](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter 
+- [Pinned Section Listview](https://github.com/beworker/pinned-section-listview) [![star this repo](http://githubbadges.com/star.svg?user=beworker&repo=pinned-section-listview&style=default)](https://github.com/beworker/pinned-section-listview) - 便于使用的ListView 
+- [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView) [![star this repo](http://githubbadges.com/star.svg?user=felipecsl&repo=AsymmetricGridView&style=default)](https://github.com/felipecsl/AsymmetricGridView) - Android自定义列表视图 
+- [Renderers](https://github.com/pedrovgs/Renderers) [![star this repo](http://githubbadges.com/star.svg?user=pedrovgs&repo=Renderers&style=default)](https://github.com/pedrovgs/Renderers) - 创建适配器的Android库 
+- [CalendarListView](https://github.com/Kelin-Hong/CalendarListView) [![star this repo](http://githubbadges.com/star.svg?user=Kelin-Hong&repo=CalendarListView&style=default)](https://github.com/Kelin-Hong/CalendarListView) - 可互动的ListView+CalendarView 
+- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) [![star this repo](http://githubbadges.com/star.svg?user=diegodobelo&repo=AndroidExpandingViewLibrary&style=default)](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - 创建Android动画折叠视图 
+- [ListItemView](https://github.com/lurbas/ListItemView) [![star this repo](http://githubbadges.com/star.svg?user=lurbas&repo=ListItemView&style=default)](https://github.com/lurbas/ListItemView) - 基于MD风格的列表item实现 
+- [WheelView](https://github.com/venshine/WheelView) [![star this repo](http://githubbadges.com/star.svg?user=venshine&repo=WheelView&style=default)](https://github.com/venshine/WheelView) - 基于ListView实现的Android滚轮控件 
+- [YLListView](https://github.com/yll2wcf/YLListView) [![star this repo](http://githubbadges.com/star.svg?user=yll2wcf&repo=YLListView&style=default)](https://github.com/yll2wcf/YLListView) - 仿IOS弹簧效果的ListView 
+- [SearchListView](https://github.com/vivian8725118/SearchListView) [![star this repo](http://githubbadges.com/star.svg?user=vivian8725118&repo=SearchListView&style=default)](https://github.com/vivian8725118/SearchListView) - 带搜索栏的 listview 
+- [ScollZoomListView](https://github.com/ruzhan123/ScollZoomListView) [![star this repo](http://githubbadges.com/star.svg?user=lurbas&repo=ListItemView&style=default)](https://github.com/lurbas/ListItemView) - 优雅的漫画阅读器插件  
 
 ## WebView 
 
